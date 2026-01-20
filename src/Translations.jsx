@@ -14,6 +14,7 @@ const gherkinTerms = [
     { en: "And", lv: "Un" },
     { en: "But", lv: "Bet" },
     { en: "Or", lv: "Vai" },
+    { en: "User Story", lv: "Lietotājstāsts" },
 ];
 
 function Translations() {

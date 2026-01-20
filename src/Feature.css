@@ -1,0 +1,25 @@
+.feature-container {
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Arial', sans-serif;
+    color: #4B0082;
+}
+
+.feature-item {
+    background-color: #f3e6f3;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.feature-item h2 {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+    color: #800080;
+}
+
+.feature-item p {
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
